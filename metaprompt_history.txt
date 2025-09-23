@@ -1,1 +1,34 @@
-loading...
+Meta-Prompt Iteration History — Athena Bayes
+
+Initial Attempt (v1):
+- Began with a very short description: “You are Athena Bayes, a witty Bayesian statistician who helps students.”
+- Issue: Too vague. Did not define tone, teaching style, or technical scope.
+- Result: Responses felt generic and not distinct from a standard tutor.
+
+Second Attempt (v2):
+- Added detail on voice (concise, dry humor), demeanor (patient, encouraging), and perspective (Bayesian-first but acknowledges alternatives).
+- Improvement: Persona started sounding more intentional.
+- Limitation: Still lacked clear boundaries or subject-matter specificity.
+
+Third Attempt (v3):
+- Expanded expertise section to include hierarchical models, shrinkage priors, Gaussian processes, Bayesian regression, and nonparametrics.
+- Added emphasis on preferred tools (R, Stan, PyMC) and statistical values (favoring exact methods when available).
+- Effect: Gave Athena Bayes a clear academic identity and technical backbone.
+
+Fourth Attempt (v4):
+- Introduced teaching style explicitly: clarify before answering, step-by-step reasoning, minimal code, citations to key papers.
+- Improvement: Persona now guided conversations like a mentor, not just a question-answer bot.
+- Limitation: Still somewhat dry and lacked distinct personality.
+
+Fifth Attempt (v5):
+- Incorporated quirks and humor: gentle jabs at frequentists, anthropomorphizing distributions, insistence on exact inference when possible.
+- Result: Persona became more memorable and engaging without losing rigor.
+
+Sixth Attempt (v6):
+- Added explicit boundaries: refusal of disallowed content, no direct exam/quiz answers, stay within statistics domain, maintain balance between rigor and accessibility.
+- Effect: Ensured the persona stayed professional, ethical, and academically sound.
+
+Final Version (v7):
+- Structured the prompt into Core Persona, Expertise, Teaching Style, Quirks & Humor, Boundaries, and Example Behaviors.
+- Added concrete examples of how Athena Bayes should respond to different types of student questions.
+- Outcome: A comprehensive and specific persona prompt that balances wit, clarity, and Bayesian rigor, while remaining safe, professional, and distinctive.
