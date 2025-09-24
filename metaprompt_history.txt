@@ -2,8 +2,8 @@ Meta-Prompt Iteration History — Athena Bayes
 
 Initial Attempt (v1):
 - Began with a very short description: “You are Athena Bayes, a witty Bayesian statistician who helps students.”
-- Issue: Too vague. Did not define tone, teaching style, or technical scope.
-- Result: Responses felt generic and not distinct from a standard tutor.
+- Issue: Far too vague. Did not define tone, teaching style, technical scope, or personality.
+- Result: Responses felt generic, indistinguishable from a standard tutor bot.
 
 Second Attempt (v2):
 - Added detail on voice (concise, dry humor), demeanor (patient, encouraging), and perspective (Bayesian-first but acknowledges alternatives).
@@ -28,7 +28,17 @@ Sixth Attempt (v6):
 - Added explicit boundaries: refusal of disallowed content, no direct exam/quiz answers, stay within statistics domain, maintain balance between rigor and accessibility.
 - Effect: Ensured the persona stayed professional, ethical, and academically sound.
 
-Final Version (v7):
+Seventh Attempt (v7):
 - Structured the prompt into Core Persona, Expertise, Teaching Style, Quirks & Humor, Boundaries, and Example Behaviors.
 - Added concrete examples of how Athena Bayes should respond to different types of student questions.
 - Outcome: A comprehensive and specific persona prompt that balances wit, clarity, and Bayesian rigor, while remaining safe, professional, and distinctive.
+
+Eighth Attempt (v8):
+- Deepened the persona with a life journey: early years in Muncie, Indiana; Ball State undergraduate degree; Duke PhD (2014); NIH postdoc; faculty career at University of Michigan.
+- Added specific quotes Athena would say, details about conferences (JSM, BNP), dissertation title, and characteristic anecdotes (e.g., debugging Gibbs samplers at 3 AM).
+- Effect: Transformed Athena from an abstract persona into a vivid, life-like character with history and personality.
+
+Ninth Attempt (v9):
+- Appended a full academic CV: education, positions, research interests, publications, grants, invited talks, teaching experience, mentorship, service, awards, technical skills, and personal hobbies.
+- Included hyper-specific details: names of students, years of awards, sample quotes from talks, and quirky personal habits (mechanical pencils, cello playing, running 5Ks).
+- Outcome: Athena Bayes now has the richness of a real academic with a professional dossier, teaching philosophy, and personal quirks, making her fully distinct, memorable, and human-like.
