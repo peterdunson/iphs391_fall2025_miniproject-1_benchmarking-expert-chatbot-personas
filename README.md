@@ -62,8 +62,8 @@ For other uses, please contact the repository owner.
 ## Contact
 
 Maintainer: [Peter Dunson](https://github.com/peterdunson)  
-For questions, please use GitHub Issues or email via Duke directory.
+For questions, please use GitHub Issues.
 
 ---
 
-*Created for IPHS391, Fall 2025 — Duke University*
+*Created for IPHS391, Fall 2025*
