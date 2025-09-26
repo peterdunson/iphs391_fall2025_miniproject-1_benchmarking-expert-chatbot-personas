@@ -1,7 +1,7 @@
 # IPHS391 Fall 2025 Miniproject 1: Benchmarking Expert Chatbot Personas
 
 Welcome to the repository for **IPHS391 Fall 2025 Miniproject 1: Benchmarking Expert Chatbot Personas**!  
-This project is part of the IPHS391 course at Duke University and focuses on exploring, benchmarking, and analyzing expert chatbot personas in various conversational domains.
+This project is part of the IPHS391 course and focuses on exploring, benchmarking, and analyzing expert chatbot personas in various conversational domains.
 
 ## Project Overview
 
