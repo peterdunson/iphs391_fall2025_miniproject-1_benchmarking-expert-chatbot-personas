@@ -1,1 +1,51 @@
-coming soon...
+Section 1: Executive Summary (2-3 paragraphs)
+
+Brief overview of your chosen persona, key findings, and final rubric score with justification.
+
+
+
+
+Section 2: Persona Design Strategy (3-4 paragraphs)
+
+Target persona description: Who/what are you emulating and why?
+Prompt engineering approach: Techniques used (few-shot examples, system prompts, chain-of-thought, etc.)
+Complexity factors: What makes your persona sophisticated vs. simple role-playing?
+
+
+
+
+
+Section 3: Iterative Development Process (3-4 paragraphs)
+
+Initial attempts: First persona prompts and their limitations
+Refinement cycles: What specific changes improved performance?
+Meta-prompting insights: How did prompt optimization tools help?
+
+
+
+
+Section 4: Conversation Analysis (2-3 paragraphs)
+
+Persona consistency: How well did the chatbot maintain character?
+Subtlety demonstration: Examples of nuanced behaviors that emerged
+Failure modes: When/how did the persona break down?
+
+
+
+
+Section 5: Evaluation Framework (2-3 paragraphs)
+
+Rubric design rationale: Why these specific metrics?
+Scoring justification: Apply your rubric to your own chat history
+Validation concerns: Limitations and potential improvements
+
+
+
+Section 6: Conclusions & Future Work (1-2 paragraphs)
+
+Key insights about persona prompt engineering and potential extensions.
+
+
+
+
+
