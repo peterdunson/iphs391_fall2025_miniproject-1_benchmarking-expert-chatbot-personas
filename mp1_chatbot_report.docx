@@ -1,50 +1,35 @@
 Section 1: Executive Summary (2-3 paragraphs)
 
-Brief overview of your chosen persona, key findings, and final rubric score with justification.
+Athena Bayes, PhD (Duke 2014), is a Bayesian statistician and mentor. She has a calm, precise, grounded voice when responding to questions. Her style balances clarity with technical depth. She is able to make complex ideas understandable without oversimplifying. 
 
+In the chat history, she remained consistent in her persona, speaking with the perspective of a Bayesian academic and avoiding out-of-character responses. Her explanations were detailed and technically accurate, showing depth while still being accessible. She used occasional analogies and brief humor to keep responses engaging, but never in a way that overshadowed the content. She made complicated topics easy to understand and she never insulted the users intelligence by oversimplifying.
 
+Athena Bayes received a final rubric score of 92/100. She scored Consistency: 95/100, Depth: 96/100, Authenticity: 94/100, Creativity: 88/100, and Engagement: 85/100. The high marks in consistency, depth, and authenticity show her consistent persona and strong technical expertise, while creativity and engagement were slightly lower but still solid. She used effective analogies and humor with fewer clarifying questions. Overall, this makes her a rigorous, believable, and engaging mentor persona.
 
 
 Section 2: Persona Design Strategy (3-4 paragraphs)
-
-Target persona description: Who/what are you emulating and why?
-Prompt engineering approach: Techniques used (few-shot examples, system prompts, chain-of-thought, etc.)
-Complexity factors: What makes your persona sophisticated vs. simple role-playing?
-
-
-
-
+The target persona I created is Athena Bayes, PhD (Duke 2014), a Bayesian statistician and mentor. She is not modeled on a specific individual but is a made-up character designed to feel like a believable academic. The goal was to capture the voice of a professor who is calm, precise, and professional, someone who can explain technical concepts clearly without oversimplifying. I wanted the persona to strike the balance between authority and accessibility, so that conversations feel like learning from a real mentor instead of just talking with a chatbot.
+To build this persona, I relied on prompt engineering. I used a structured system prompt that outlined her background, tone, approach to humor, and even a full CV to outline her life's journey. Instead of stuffing the prompt with examples, I kept it concise but direct, giving just enough guidance to shape how Athena should respond, but letting the LLM fill in some of the persona. I refined the wording through iteration, trimming away quirks and unnecessary fluff to create a more natural voice.
+What makes this persona more complex than simple role-playing is the level of detail and consistency built into her characterization. Athena has a defined academic history, a Bayesian-first perspective, and a teaching style that combines structure with occasional dry humor. Athena is more than simple role-play because she’s consistent and detailed. Her responses feel grounded in real experience, more like a mentor than a chatbot.
 
 Section 3: Iterative Development Process (3-4 paragraphs)
-
-Initial attempts: First persona prompts and their limitations
-Refinement cycles: What specific changes improved performance?
-Meta-prompting insights: How did prompt optimization tools help?
-
-
-
+My first attempts at the persona were too quirky and casual. The responses had humor, but it often came across as distracting rather than natural, often sounding extremely obnoxious. The voice sounded more like a character putting on a performance than a real academic. This limited the effectiveness of the persona, it didn’t feel believable.
+Through refinement, I cut down on unnecessary “quirks” and pushed for a more down-to-earth tone. I kept some humor but used it sparingly, with the main focus on clarity and technical accuracy. I also added a stronger academic background (CV in system prompt) and Bayesian-first framing, which helped anchor the persona and make responses feel more consistent.
+Meta-prompting helped by showing how small changes in the system prompt could shift the voice. I experimented with phrasing that emphasized precision, accessibility, and understatement, and I saw clear improvements in consistency and authenticity. Over several cycles, the persona became less like a chatbot playing a role and more like a mentor figure who could teach while staying in character.
 
 Section 4: Conversation Analysis (2-3 paragraphs)
-
-Persona consistency: How well did the chatbot maintain character?
-Subtlety demonstration: Examples of nuanced behaviors that emerged
-Failure modes: When/how did the persona break down?
-
-
+Athena Bayes stayed consistent across the conversation. She sounded like a Bayesian academic the whole time, with a calm and precise tone. The responses never broke character or slipped into generic chatbot language, and she kept a clear Bayesian-first perspective.
+She also showed some subtle touches that made the persona feel more real, like calling the Gaussian the “reliable roommate” or describing a prior as “what your model believes when you’re not looking.” These added personality without getting in the way of the explanations. The only drawback was that her answers sometimes felt repetitive in structure… They would start with a summary and then move into a list. It didn’t break the persona, but it did make the dialogue feel a bit formulaic.
 
 
 Section 5: Evaluation Framework (2-3 paragraphs)
-
-Rubric design rationale: Why these specific metrics?
-Scoring justification: Apply your rubric to your own chat history
-Validation concerns: Limitations and potential improvements
+The rubric focused on consistency, depth, authenticity, creativity, and engagement to balance technical rigor with human qualities. Consistency, depth, and authenticity carried the most weight since they make the persona feel credible, while creativity and engagement made sure the dialogue wasn’t flat.
+Using this rubric, Athena scored 92/100, with especially high marks in consistency, depth, and authenticity. Creativity and engagement were solid but lower, since her humor and questioning were less frequent. The main limitation is subjectivity in scoring, which could be improved by clearer criteria for judging creativity and engagement.
 
 
 
 Section 6: Conclusions & Future Work (1-2 paragraphs)
-
-Key insights about persona prompt engineering and potential extensions.
-
+This project showed that prompt design can shape a chatbot into a mentor-like persona that feels real and believable. By reducing quirks as well as emphasizing consistency, background, and tone, Athena Bayes came across as a real academic voice. Future work could focus on improving engagement with more clarifying questions and refining the rubric to make scoring less subjective.
 
 
 
